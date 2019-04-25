@@ -13,7 +13,7 @@ namespace TareaMVC.Controllers
     public class VentasController : Controller
     {
         private DataContextVentas db = new DataContextVentas();
-
+        //hola mundooooo
         // GET: Ventas
         public ActionResult Index()
         {

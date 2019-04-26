@@ -12,3 +12,4 @@ namespace TareaMVC.Models
         public System.Data.Entity.DbSet<TareaMVC.Models.Venta> Ventas { get; set; }
     }
 }
+//hola
